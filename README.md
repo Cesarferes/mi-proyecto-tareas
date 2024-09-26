@@ -27,7 +27,7 @@ Tener instalados los siguientes programas:
 
 ## 4. Instrucciones de instalación y ejecución
 
-- **Para la base de datos**
+**Para la base de datos**
 Deberas instalar MongoDB Community Edition
 
 - Agregar la ruta al path para poder iniciarlo desde el cmd 
@@ -39,7 +39,7 @@ con el siguiente comando: mongod
 
 - Para crear la coleccion utilizamos el siguiente comando: db.createCollection('tareas')
 
-- **Para la carpeta Backend**
+**Para la carpeta Backend**
 Estando en la carpeta mi-proyecto-tareas
 
 - Entra a la carpeta del backend con la siguiente ruta:
@@ -55,7 +55,7 @@ Quedara asi: MONGODB_URI=mongodb://127.0.0.1:27017/gestionTareas
 node server.js
 El backend estará disponible en http://localhost:5000.
 
-- **Para la carpeta Gestion-tareas**
+**Para la carpeta Gestion-tareas**
 Estando en la carpeta mi-proyecto-tareas
 
 - Entra a la carpeta de gestion-tareas:
@@ -70,7 +70,7 @@ npm start
 El frontend estará disponible en http://localhost:3000.
 
 
-### 4.1 Clonar el repositorio
+### 5 Clonar el repositorio
 
 - Utlizamos el siguiente comando
 
