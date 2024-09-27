@@ -39,7 +39,7 @@ con el siguiente comando: mongod
 
 - Para crear la coleccion utilizamos el siguiente comando: db.createCollection('tareas')
 
-**Para la carpeta Backend**
+**Para la carpeta backend**
 Estando en la carpeta mi-proyecto-tareas
 
 - Entra a la carpeta del backend con la siguiente ruta:
@@ -55,7 +55,7 @@ Quedara asi: MONGODB_URI=mongodb://127.0.0.1:27017/gestionTareas
 node server.js
 El backend estará disponible en http://localhost:5000.
 
-**Para la carpeta Gestion-tareas**
+**Para la carpeta gestiontareas**
 Estando en la carpeta mi-proyecto-tareas
 
 - Entra a la carpeta de gestion-tareas:
