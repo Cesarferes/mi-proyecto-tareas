@@ -58,8 +58,8 @@ El backend estará disponible en http://localhost:5000.
 **Para la carpeta gestiontareas**
 Estando en la carpeta mi-proyecto-tareas
 
-- Entra a la carpeta de gestion-tareas:
-cd ./gestion-tareas
+- Entra a la carpeta de gestiontareas:
+cd ./gestiontareas
 
 - Instala las dependencias:
 npm install
